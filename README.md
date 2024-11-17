@@ -16,7 +16,7 @@ A desktop application for managing student and staff information in a primary sc
 ## Prerequisites
 1. **Java Development Kit (JDK)**: Ensure you have JDK 8 or higher installed.
 2. **IDE**: Preferably NetBeans, IntelliJ IDEA, or Eclipse for running the project.
-3. **Database**: SQLite (or specify the database system used).
+3. **Database**: MySQL.
 
 ---
 
@@ -36,7 +36,6 @@ cd PrimarySchoolMangementSystem
 1. Import the database:
    - Locate the `Database.sql` or `PrimarySchool.db` file in the repository.
    - Follow these steps to set it up:
-     - **SQLite**: No configuration needed; just ensure the `.db` file is in the correct directory.
      - **MySQL**:
        - Import the `Database.sql` file into your MySQL server.
        - Update the connection settings in the `db.properties` file (if provided).
@@ -49,15 +48,13 @@ cd PrimarySchoolMangementSystem
 ### Step 4: Run the Project
 1. Compile and run the project from your IDE.
 2. The application should start, and you can log in using the default credentials:
-   - **Username**: `admin`
-   - **Password**: `password` (if applicable).
 
 ---
 
 ## Technologies Used
 - **Programming Language**: Java
 - **GUI Framework**: Swing
-- **Database**: SQLite
+- **Database**: MySQL
 - **JDBC**: For database connectivity
 
 ---
