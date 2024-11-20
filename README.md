@@ -1,5 +1,4 @@
-# Primary School Management System
-
+# EduEase
 A desktop application for managing student and staff information in a primary school, built using **Java Swing** and integrated with a relational database.
 
 ---
@@ -55,6 +54,6 @@ cd PrimarySchoolMangementSystem
 - **Programming Language**: Java
 - **GUI Framework**: Swing
 - **Database**: MySQL
-- **JDBC**: For database connectivity
+- **Xampp**: For database connectivity
 
 ---
