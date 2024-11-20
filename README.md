@@ -23,8 +23,8 @@ A desktop application for managing student and staff information in a primary sc
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/rakibul58/PrimarySchoolMangementSystem.git
-cd PrimarySchoolMangementSystem
+git clone https://github.com/rakibul58/EduEase.git
+cd EduEase
 ```
 
 ### Step 2: Open in IDE
